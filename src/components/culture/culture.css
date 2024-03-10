@@ -1,0 +1,52 @@
+.culture{
+    background-color: black;
+}
+.culture-main{
+    background: url(../../assets/banner2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 559px;
+    padding-bottom: 33px;
+}
+.culture-text{
+    text-align: center;
+}
+.culture-text h4{
+    font-size: 18px;
+    font-weight: 700px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:#FBD784;
+    line-height: 24.51px;
+    letter-spacing: 6px;
+    align-items: center;
+}
+.culture-text h3{
+    font-size: 64px;
+    font-weight: 700px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:white;
+    line-height: 87.16px;
+    padding: 0 200px;
+
+}
+.culture-text p{
+    font-size: 15px;
+    font-weight: 400px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:white;
+    line-height: 32px;
+    padding: 0 220px;
+}
+.culture-text a{
+    font-size: 18px;
+    font-weight: 700px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:#FBD784;
+    line-height: 24.51px;
+    margin-top: 26px;
+}

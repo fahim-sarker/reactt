@@ -1,0 +1,100 @@
+footer{
+    background-color:black ;
+    padding:50px 0 100px 0;
+}
+.footer-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-logo-right{
+    margin-bottom: 100px;
+}
+.footer-logo-right span{
+    font-size: 22px;
+    font-weight: 400px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:#Fff;
+}
+.footer-logo-right a{
+    background: #FFA343;
+    width: 232px;
+    height:59px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    line-height: 59px;
+    color: black;
+}
+.footer-service{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-service-1 h3{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: -0.3px;
+    color: #Fff;
+}
+.footer-service-1 h6{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 30px;
+    color: #Fff;
+    text-transform: capitalize;
+}
+.footer-service-1 a{
+    padding-top: 40px;
+    padding-left: 10px;
+    color: #Fff;
+}
+.footer-service-2 h5{
+    color:#FFD1A0;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer-service-2 ul li a{
+    text-transform: uppercase;
+    color: #Fff;
+    padding-top: 20px;
+}
+.footer-service-3 h5{
+    color:#FFD1A0;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer-service-3 ul li a{
+    text-transform: uppercase;
+    color: #Fff;
+    padding-top: 20px;
+}
+.footer-service-4 h5{
+    color:#FFD1A0;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer-service-4 ul li a{
+    text-transform: uppercase;
+    color: #Fff;
+    padding-top: 20px;
+}
+.footer-copyright{
+    margin-top: 200px;
+}
+.footer-copyright h6{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #Fff;
+    text-align: center;
+    opacity: 50%;
+    text-transform: capitalize;
+}

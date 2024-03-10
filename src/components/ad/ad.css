@@ -1,0 +1,48 @@
+.ad{
+    background-color: black;
+}
+.ad-main{
+    display: flex;
+    padding: 295px 0 199px 0px;
+}
+.ad-text{
+    margin: 153px 0px 154px 0px;
+}
+.ad-text h3{
+    font-size: 18px;
+    font-weight: 700px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:#FBD784;
+    line-height: 24.51px;
+    letter-spacing: 6px;
+    margin-left: 25px;
+}
+.ad-text h2{
+    font-size: 64px;
+    font-weight: 700px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:white;
+    line-height: 87.16px;
+    padding: 0 20px;
+}
+.ad-text p{
+    font-size: 18px;
+    font-weight: 400px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:#Fff;
+    line-height:32px;
+    padding: 0 20px;
+}
+.ad-text a{
+    font-size: 18px;
+    font-weight: 700px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    color:#FBD784;
+    line-height: 24.51px;
+    margin-top: 47px;
+    padding-left: 20px;
+}

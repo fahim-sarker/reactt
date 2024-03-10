@@ -1,0 +1,29 @@
+
+.container{
+    width:1200px;
+    margin:0 auto;
+}
+nav{
+    position: absolute;
+    height: 60px;
+    width:100%;
+    position: fixed;
+}
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:60px;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li a{
+    padding: 0 20px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    color: white;
+}
+.menu ul li a:hover{
+    color: black;
+}

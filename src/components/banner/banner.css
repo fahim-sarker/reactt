@@ -1,0 +1,29 @@
+.banner{
+    background: url(../../assets/banner1.jpg) no-repeat center/cover;
+    padding: 462px 0px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.banner-text p{
+    letter-spacing: 7px;
+    color: #FFC178;
+    font-size: 18px;
+    text-transform: uppercase;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 700px;
+}
+.banner-text h1{
+    font-size: 96px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:700px ;
+}
+.banner-text h3{
+    font-size: 88px;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+/* banner part end */
